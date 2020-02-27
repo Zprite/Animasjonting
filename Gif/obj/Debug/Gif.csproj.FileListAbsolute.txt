@@ -1,0 +1,10 @@
+C:\Users\birke\source\repos\Gif\Gif\bin\Debug\Gif.exe.config
+C:\Users\birke\source\repos\Gif\Gif\bin\Debug\Gif.exe
+C:\Users\birke\source\repos\Gif\Gif\bin\Debug\Gif.pdb
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.csprojAssemblyReference.cache
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.Form1.resources
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.Properties.Resources.resources
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.csproj.GenerateResource.cache
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.exe
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.pdb
+C:\Users\birke\source\repos\Gif\Gif\obj\Debug\Gif.Properties.animation.resources
